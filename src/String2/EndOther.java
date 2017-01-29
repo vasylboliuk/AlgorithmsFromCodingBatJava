@@ -24,6 +24,5 @@ public class EndOther {
             return true;
         }
         return false;
-
     }
 }
