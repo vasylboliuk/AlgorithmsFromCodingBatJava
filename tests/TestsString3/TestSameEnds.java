@@ -1,4 +1,4 @@
-package testsString3;
+package TestsString3;
 import String3.SameEnds;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
